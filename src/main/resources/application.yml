@@ -1,0 +1,9 @@
+server:
+  port: 8888
+  
+shiro:
+    enabled: true
+    web:
+        enabled: true
+    annotations:
+        enabled: true
